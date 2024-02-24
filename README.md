@@ -171,5 +171,4 @@ loss_df.plot()
 
 
 ## RESULT
-
-Include your result here
+Summarize the overall performance of the model based on the evaluation metrics obtained from testing data as a regressive neural network based prediction has been obtained.
