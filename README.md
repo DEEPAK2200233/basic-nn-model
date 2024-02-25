@@ -52,8 +52,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: Sriram G
-### Register Number:212222230149
+### Name: DEEPAK RAJ S
+### Register Number:212222240023
 
 ## Importing Modules
 ```
