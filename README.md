@@ -18,7 +18,8 @@ predict the value.
 
 ## Neural Network Model
 
-![model](1.jpg)
+![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/2c5c6a19-897c-4fc5-80ad-858fffed35be)
+
 
 ## DESIGN STEPS
 
