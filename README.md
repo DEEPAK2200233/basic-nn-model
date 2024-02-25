@@ -126,9 +126,11 @@ ai.predict(x_n_n)
 
 
 ## Dataset Information
-![model](1.png)
+![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/2f3462fd-a0c3-48cf-afcf-d2816949f52d)
+
 
 ## OUTPUT
+![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/c04f2629-b4a3-4f92-a044-fd05ac49f042)
 
 ### Training Loss Vs Iteration Plot
 
@@ -136,11 +138,12 @@ ai.predict(x_n_n)
 
 ### Test Data Root Mean Squared Error
 
-![model](3.png)
+![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/823d0c59-2014-4988-9fec-86a4caac35a0)
 
 ### New Sample Data Prediction
 
-![model](4.png)
+![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/895044e6-b583-4e9c-a050-1808d1506273)
+
 
 ## RESULT
 
