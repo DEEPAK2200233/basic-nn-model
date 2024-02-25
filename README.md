@@ -130,11 +130,9 @@ ai.predict(x_n_n)
 
 
 ## OUTPUT
-![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/c04f2629-b4a3-4f92-a044-fd05ac49f042)
 
 ### Training Loss Vs Iteration Plot
-
-![model](2.png)
+![image](https://github.com/DEEPAK2200233/basic-nn-model/assets/118707676/c04f2629-b4a3-4f92-a044-fd05ac49f042)
 
 ### Test Data Root Mean Squared Error
 
